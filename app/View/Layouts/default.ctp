@@ -37,10 +37,15 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 	?>
 </head>
 <body>
-	<div id="container">
+
+  <div id="container">
 		<div id="header">
-			<h1><?php echo $this->Html->link($cakeDescription, 'http://cakephp.org'); ?></h1>
-		</div>
+        <?php
+          echo $this->Html->link('Projects', array('controller'=>'projects', 'action'=>'index', 'full_base'=>true))." ";
+          echo $this->Html->link('Logs', array('controller'=>'logs', 'action'=>'index', 'full_base'=>true))." ";
+          echo $this->Html->link('Members', array('controller'=>'members', 'action'=>'index', 'full_base'=>true))." ";
+        ?>
+      </div>
 		<div id="content">
 
 			<?php echo $this->Session->flash(); ?>
