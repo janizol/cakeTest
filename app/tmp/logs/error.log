@@ -1,0 +1,479 @@
+2014-04-18 04:08:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:08:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/bootstrap-responsive.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:08:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:08:07 Error: [MissingControllerException] Controller class ProjectsPhpController could not be found.
+Exception Attributes: array (
+  'class' => 'ProjectsPhpController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/projectsPhp/cakeTest/img/favicon.ico
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:08:07 Error: [MissingControllerException] Controller class ProjectsPhpController could not be found.
+Exception Attributes: array (
+  'class' => 'ProjectsPhpController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/projectsPhp/cakeTest/img/favicon.ico
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:08:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:08:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:08:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/bootstrap-responsive.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:08:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:08:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:08:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/bootstrap-responsive.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:08:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/bootstrap-responsive.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:08:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:08:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:09:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:09:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:09:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/bootstrap-responsive.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:09:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/bootstrap-responsive.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:09:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:09:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:09:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/bootstrap-responsive.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:09:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:09:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:09:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:09:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/bootstrap-responsive.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:09:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:29 Error: [MissingControllerException] Controller class Base-css.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Base-css.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/base-css.html
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:34 Error: [MissingControllerException] Controller class Base-css.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Base-css.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/base-css.html
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:35 Error: [MissingControllerException] Controller class Base-css.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Base-css.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/base-css.html
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:35 Error: [MissingControllerException] Controller class Base-css.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Base-css.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/base-css.html
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:36 Error: [MissingControllerException] Controller class Base-css.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Base-css.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/base-css.html
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:11:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:12:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/docs.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:12:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/css/prettify.css
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:20:47 Error: Fatal Error (4): syntax error, unexpected T_OBJECT_OPERATOR, expecting ')' in [/home/comotion/projectsPhp/cakeTest/app/View/Layouts/default.ctp, line 44]
+2014-04-18 04:20:47 Error: [FatalErrorException] syntax error, unexpected T_OBJECT_OPERATOR, expecting ')'
+Request URL: /projectsPhp/cakeTest/logs/
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/comotion/...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/comotion/...', 44, Array)
+#2 /home/comotion/projectsPhp/cakeTest/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/comotion/...', 44, Array)
+#3 /home/comotion/projectsPhp/cakeTest/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-18 04:22:46 Error: [MissingControllerException] Controller class ProjectController could not be found.
+Exception Attributes: array (
+  'class' => 'ProjectController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/Project
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 04:22:52 Error: [MissingControllerException] Controller class ProjectController could not be found.
+Exception Attributes: array (
+  'class' => 'ProjectController',
+  'plugin' => NULL,
+)
+Request URL: /projectsPhp/cakeTest/Project
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-18 05:07:09 Error: [NotFoundException] Not Found
+Request URL: /projectsPhp/cakeTest/logs/index/page:5
+Stack Trace:
+#0 /home/comotion/projectsPhp/cakeTest/app/Controller/LogsController.php(25): PaginatorComponent->paginate()
+#1 [internal function]: LogsController->index()
+#2 /home/comotion/projectsPhp/cakeTest/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(LogsController), Array)
+#3 /home/comotion/projectsPhp/cakeTest/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#4 /home/comotion/projectsPhp/cakeTest/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(LogsController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/comotion/projectsPhp/cakeTest/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
