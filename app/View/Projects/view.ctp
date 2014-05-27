@@ -26,6 +26,11 @@
 			<?php echo h($project['Project']['modified']); ?>
 			&nbsp;
 		</dd>
+		<dt><?php echo __('Total Hours'); ?></dt>
+		<dd>
+			<?php echo h($project['Project']['total_time']); ?>
+			&nbsp;
+		</dd>
 	</dl>
 </div>
 <div class="actions">

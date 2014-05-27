@@ -36,6 +36,11 @@
 			<?php echo h($log['Log']['modified']); ?>
 			&nbsp;
 		</dd>
+		<dt><?php echo __('Cost'); ?></dt>
+		<dd>
+			<?php echo h($log['Cost']); ?>
+			&nbsp;
+		</dd>
 	</dl>
 </div>
 <div class="actions">

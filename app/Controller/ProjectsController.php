@@ -37,7 +37,19 @@ class ProjectsController extends AppController {
 			throw new NotFoundException(__('Invalid project'));
 		}
 		$options = array('conditions' => array('Project.' . $this->Project->primaryKey => $id));
-    $result = $this->Project->find('first', $options);
+    	$result = $this->Project->find('first', $options);
+    	//debug($result);
+    	$total_time = 0;
+    	foreach ($result['Log'] as $log) {
+    		//debug($log);
+    		$date_s = strtotime ($log['start_date']);
+			$date_e = strtotime ($log['end_date']);
+			$time_diff = ($date_e - $date_s)/360;
+			$total_time = $total_time + $time_diff;
+			//echo $total_time."<br/>";
+    	}
+    	//echo $total_time;
+    	$result['Project']['total_time'] = $total_time;
 		$this->set('project', $result);
 	}
 

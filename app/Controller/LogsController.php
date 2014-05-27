@@ -37,7 +37,18 @@ class LogsController extends AppController {
 			throw new NotFoundException(__('Invalid log'));
 		}
 		$options = array('conditions' => array('Log.' . $this->Log->primaryKey => $id));
-		$this->set('log', $this->Log->find('first', $options));
+		$log = $this->Log->find('first', $options);
+		//debug($log);
+		//echo $log['Project']['hourly_rate'];
+		$date_s = strtotime ($log['Log']['start_date']);
+		$date_e = strtotime ($log['Log']['end_date']);
+		$time_diff = ($date_e - $date_s)/360;
+		$cost = $time_diff * $log['Project']['hourly_rate'];
+		//debug($time_diff );
+		$cost = round($cost, 2);
+		//echo $cost ." and ". $time_diff;
+		$log['Cost'] = "R ".$cost;
+		$this->set('log', $log);
 	}
 
 /**
